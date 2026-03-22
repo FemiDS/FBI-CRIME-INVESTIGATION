@@ -1,2 +1,2 @@
 # FBI-CRIME-INVESTIGATION
-At its core, this is a resource allocation problem disguised as a prediction problem. The FBI/law enforcement doesn't just want to know when crimes will happen.  They want to act before they happen.
+A spatio-temporal machine learning capstone that forecasts crime patterns to support law enforcement resource allocation, urban planning, and public policy decisions.
